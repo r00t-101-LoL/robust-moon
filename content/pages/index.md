@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Manage Your Agents
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Celebrating daily wins with Your Goals
     actions:
       - label: Try for free
         url: /pricing
